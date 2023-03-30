@@ -1,10 +1,3 @@
-# YRN_BEAUTER
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-
-    <!-- Declared Vars To Go Here -->
-
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -21,11 +14,6 @@
     <!-- CSS -->
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
     <link href="mysource_files/style.css" rel="stylesheet">
-
-  </head>
-
-  <body>
-
     <div class="container">
 
       <header class="header clearfix" style="background-color: #ffffff">
@@ -48,8 +36,6 @@
           <li><a href="#">Level 1</a></li>
           <li class="active">Level 2</li>
         </ol>
-
-      </header>
 
       <div class="page-heading">
 
